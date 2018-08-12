@@ -1,0 +1,8 @@
+#files and folders to be ignored
+
+### system Files
+.DS_Store
+
+### Temp matlab file
+*.m~
+
